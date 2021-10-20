@@ -23,20 +23,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "pizhamas_belarus",
-      "phone": "+7 954 277 52 46",
-      "id": 1
-    },
-    {
-      "name": "ggprlan",
-      "phone": "+7 954 277 52 46",
-      "id": 2
-    },
-    {
-      "name": "pizhamas_belarus",
-      "phone": "+375255064946",
-      "id": 3
-    }
+    
   ]
 }
